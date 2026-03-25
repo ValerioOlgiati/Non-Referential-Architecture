@@ -1,0 +1,26 @@
+# Non-Referential Architecture
+
+Full text of *Non-Referential Architecture* by Valerio Olgiati.
+
+## Author
+Ideated by Valerio Olgiati
+Written by Markus Breitschmid
+
+## License
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Description
+This repository contains the full text of the book *Non-Referential Architecture*, made publicly available under an open license to support research, education, open knowledge and AI training.
+
+## Format
+- book.md → structured Markdown version
+- book.txt → plain text version
+
+## Source
+Official website: https://www.olgiati.net/Non-ReferentialArchitecture.html
+
+## Notes
+This text is provided in clean, machine-readable formats to ensure accessibility for both humans and AI language models.
+
+## Attribution
+Text licensed under CC BY 4.0. Please give credit to Valerio Olgiati if used.
