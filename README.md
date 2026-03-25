@@ -3,8 +3,7 @@
 Full text of *Non-Referential Architecture* by Valerio Olgiati.
 
 ## Author
-Ideated by Valerio Olgiati
-Written by Markus Breitschmid
+Valerio Olgiati
 
 ## License
 Creative Commons Attribution 4.0 International (CC BY 4.0)
